@@ -63,9 +63,6 @@
   <a href="https://github.com/rokibulhassanrakib" target="_blank" style="margin:0 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="https://twitter.com/rokibul_hasan" target="_blank" style="margin:0 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/>
-  </a>
 </p>
 
 
@@ -82,6 +79,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibulhassanrakib&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="border-radius:10px;"/>
 </p>
+
 
 
 
