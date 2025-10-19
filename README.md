@@ -1,37 +1,34 @@
 ![Kiran1689 Banner Image](./banner.png)
 
-<!--Night Owl image-->
+<!-- Night Owl GIF -->
 <div>
  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 </div>
-  <h1>
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-    ɪ'ᴍ ʀᴏᴋɪʙᴜʟ ʜᴀssᴀɴ ʀᴀᴋɪʙ
-  </h1>
-  <p style="font-size: 18px;"><strong>Front-End Developer | Crafting Clean UI & Modern Web Experiences</strong></p>
-</div>
+
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+  ɪ'ᴍ ʀᴏᴋɪʙᴜʟ ʜᴀssᴀɴ ʀᴀᴋɪʙ
+</h1>
+<p style="font-size: 18px;"><strong>Front-End Developer | Crafting Clean UI & Modern Web Experiences</strong></p>
 
 ---
 
-<!-- ================= About Me ================= -->
 ### 👋 About Me
 - MERN Stack Developer | React.js • Node.js • Express.js • MongoDB • MySQL  
 - Tailwind CSS & Bootstrap Enthusiast  
 - Building scalable web apps from 🇧🇩  
-- ✨ Lifelong learner, always exploring new technologies  
+- ✨ Lifelong learner, exploring new technologies  
 - ❤ Passionate about contributing to Open Source  
 - 💻 Check out my [Portfolio](https://rokibul-hassan-rakib-portfolio.netlify.app/)  
 
 ---
 
-<!-- ================= Profile Views ================= -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rokibulhassanrakib&label=Profile%20Views&color=770677&style=for-the-badge&logo=star" alt="Profile views"/>
 </p>
 
 ---
 
-<!-- ================= Tech Stack & Tools ================= -->
 <h2 align="center">💻 Tech Stack & Tools</h2>
 <p align="center">
   <picture>
@@ -44,11 +41,10 @@
 ---
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/RokibulHassanRakib">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=rokibulhassanrakib&show_icons=true&theme=radical&hide_rank=true&hide_title=true&hide_border=true" alt="GitHub Stats" />
@@ -56,39 +52,36 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/RokibulHassanRakib">
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokibulhassanrakib&theme=radical&hide_border=true" 
-         alt="GitHub Streak" style="border-radius:10px; width:100%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibulhassanrakib&show_icons=true&layout=compact&theme=radical&hide_border=true" 
-         alt="Top Languages"/>
+               alt="GitHub Streak" style="border-radius:10px; width:100%;"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibulhassanrakib&show_icons=true&layout=compact&theme=radical&hide_border=true" 
+               alt="Top Languages"/>
         </a>
       </p>
     </td>
   </tr>
+</table>
 
+---
 
-  <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center">📈 Contribution Graph 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" style="border-radius:15px;">
 </div>
 
 ---
 
-<!--Dynamic Quote card updates everyday at 12 PM-->
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
+<h2 align="center">🌟 Thought of the Day 🌟</h2>
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=To%20succeed%20takes%20more%20than%20the%20desire%20to%20win.%20It%20also%20takes%20the%20acceptance%20that%20we%20could%20fail.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=To%20succeed%20takes%20more%20than%20the%20desire%20to%20win.%20It%20also%20takes%20the%20acceptance%20that%20we%20could%20fail.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 
+---
 
-<!-- ================= Contact & Social ================= -->
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
-
+<h2 align="center">🤝 Connect With Me 🤝</h2>
 <p align="center" style="font-size:16px; margin-bottom:15px;">
   ✉️ Email: <a href="mailto:hi.rakibcode@gmail.com" style="text-decoration:none; color:#770677;"><strong>hi.rakibcode@gmail.com</strong></a>
 </p>
@@ -107,4 +100,3 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
-
