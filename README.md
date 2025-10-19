@@ -11,7 +11,7 @@
 </h1>
 <p style="font-size: 18px;"><strong>Front-End Developer | Crafting Clean UI & Modern Web Experiences</strong></p>
 
----
+
 
 ### 👋 About Me
 - MERN Stack Developer | React.js • Node.js • Express.js • MongoDB • MySQL  
@@ -46,9 +46,13 @@
   <li>🌐 Node.js & Express.js – Developing REST APIs & backend projects</li>
   <li>💻 Projects – Working on full-stack MERN applications</li>
 </ul>
----
+<br />
+<br />
+<br />
+<br />
 
-<h2 align="center">📊 GitHub Stats</h2>
+
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <table width="100%">
   <tr>
     <td width="50%">
@@ -105,6 +109,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
