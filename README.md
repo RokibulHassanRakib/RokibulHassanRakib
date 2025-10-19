@@ -1,11 +1,11 @@
 ![Kiran1689 Banner Image](./banner.png)
 
 <!-- Night Owl GIF -->
-<div align="right">
-  <img alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<div>
+  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 </div>
 
-<h1 align="left">
+<h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
   ɪ'ᴍ ʀᴏᴋɪʙᴜʟ ʜᴀssᴀɴ ʀᴀᴋɪʙ
 </h1>
@@ -29,18 +29,16 @@
 
 ---
 
-<h2 align="center">🛠 Tech Stack & Tools</h2> 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img alt="Skills Animation" src="./Skills_Animation_White.gif" width="80%">
-  </picture>
-</p>
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Tools</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif">
+</picture>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats 📊</h2>
 <table width="100%">
   <tr>
     <td width="50%">
@@ -55,8 +53,7 @@
       <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/RokibulHassanRakib">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokibulhassanrakib&theme=radical&hide_border=true" 
-               alt="GitHub Streak" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokibulhassanrakib&theme=radical&hide_border=true" alt="GitHub Streak" />
         </a>
       </p>
     </td>
@@ -65,21 +62,21 @@
 
 ---
 
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">📈 Contribution Graph 📈</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RokibulHassanRakib&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" style="border-radius:15px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RokibulHassanRakib&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" style="border-radius:15px;">
 </div>
 
 ---
 
-<h2 align="center">🌟 Thought of the Day</h2>
+<h2 align="center">🌟 Thought of the Day 🌟</h2>
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=To%20succeed%20takes%20more%20than%20the%20desire%20to%20win.%20It%20also%20takes%20the%20acceptance%20that%20we%20could%20fail.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=To%20succeed%20takes%20more%20than%20the%20desire%20to%20win.%20It%20also%20takes%20the%20acceptance%20that%20we%20could%20fail.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 
 ---
 
-<h2 align="center">🤝 Connect With Me</h2>
+<h2 align="center">🤝 Connect With Me 🤝</h2>
 <p align="center" style="font-size:16px; margin-bottom:15px;">
   ✉️ Email: <a href="mailto:hi.rakibcode@gmail.com" style="text-decoration:none; color:#770677;"><strong>hi.rakibcode@gmail.com</strong></a>
 </p>
