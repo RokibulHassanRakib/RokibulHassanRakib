@@ -8,7 +8,7 @@
 <h3 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
   ɪ'ᴍ ʀᴏᴋɪʙᴜʟ ʜᴀssᴀɴ ʀᴀᴋɪʙ
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://camo.githubusercontent.com/3e4e08887b741b0296ccd05b8d49b0db392c7228ee3f74c9fe98540328b499ed/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f63656e7465723d747275652677696474683d333830266c696e65733d46756c6c2b537461636b2b5765622b446576656c6f7065723b53656c662b7461756768742b554925324655582b44657369676e65723b352532422b79656172732b6f662b636f64696e672b657870657269656e63653b416c776179732b6c6561726e696e672b6e65772b7468696e6773" width="28">
 </h3>
 ---
 
@@ -107,6 +107,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
