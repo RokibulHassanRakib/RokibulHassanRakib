@@ -44,27 +44,26 @@
 ---
 
 <!-- ================= Contact & Social ================= -->
-<!-- ================= Contact & Social ================= -->
 <h2 align="center">📫 Contact & Connect</h2>
 
-<p align="center" style="font-size:16px;">
+<p align="center" style="font-size:16px; margin-bottom:15px;">
   ✉️ Email: <a href="mailto:hi.rakibcode@gmail.com" style="text-decoration:none; color:#770677;"><strong>hi.rakibcode@gmail.com</strong></a>
 </p>
 
-<p align="center">
-  <a href="https://fb.com/rokibulhassanrakib76" target="_blank" style="margin:0 10px;">
+<p align="center" style="margin-top:0;">
+  <a href="https://fb.com/rokibulhassanrakib76" target="_blank" style="margin:0 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/rokibul-hasan-rakib-23a4b9377/" target="_blank" style="margin:0 10px;">
+  <a href="https://www.linkedin.com/in/rokibul-hasan-rakib-23a4b9377/" target="_blank" style="margin:0 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.leetcode.com/rokibul_hasan_rakib" target="_blank" style="margin:0 10px;">
+  <a href="https://www.leetcode.com/rokibul_hasan_rakib" target="_blank" style="margin:0 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
   </a>
-  <a href="https://github.com/rokibulhassanrakib" target="_blank" style="margin:0 10px;">
+  <a href="https://github.com/rokibulhassanrakib" target="_blank" style="margin:0 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="https://twitter.com/rokibul_hasan" target="_blank" style="margin:0 10px;">
+  <a href="https://twitter.com/rokibul_hasan" target="_blank" style="margin:0 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/>
   </a>
 </p>
@@ -83,6 +82,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibulhassanrakib&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="border-radius:10px;"/>
 </p>
+
 
 
 
