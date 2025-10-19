@@ -43,29 +43,6 @@
 
 ---
 
-<!-- ================= Contact & Social ================= -->
-<h2 align="center">📫 Contact & Connect</h2>
-
-<p align="center" style="font-size:16px; margin-bottom:15px;">
-  ✉️ Email: <a href="mailto:hi.rakibcode@gmail.com" style="text-decoration:none; color:#770677;"><strong>hi.rakibcode@gmail.com</strong></a>
-</p>
-
-<p align="center" style="margin-top:0;">
-  <a href="https://fb.com/rokibulhassanrakib76" target="_blank" style="margin:0 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rokibul-hasan-rakib-23a4b9377/" target="_blank" style="margin:0 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://www.leetcode.com/rokibul_hasan_rakib" target="_blank" style="margin:0 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/rokibulhassanrakib" target="_blank" style="margin:0 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-</p>
-
-
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
@@ -106,5 +83,28 @@
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=To%20succeed%20takes%20more%20than%20the%20desire%20to%20win.%20It%20also%20takes%20the%20acceptance%20that%20we%20could%20fail.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+
+
+<!-- ================= Contact & Social ================= -->
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+
+<p align="center" style="font-size:16px; margin-bottom:15px;">
+  ✉️ Email: <a href="mailto:hi.rakibcode@gmail.com" style="text-decoration:none; color:#770677;"><strong>hi.rakibcode@gmail.com</strong></a>
+</p>
+
+<p align="center" style="margin-top:0;">
+  <a href="https://fb.com/rokibulhassanrakib76" target="_blank" style="margin:0 15px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rokibul-hasan-rakib-23a4b9377/" target="_blank" style="margin:0 15px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.leetcode.com/rokibul_hasan_rakib" target="_blank" style="margin:0 15px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/rokibulhassanrakib" target="_blank" style="margin:0 15px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
+  </a>
 </p>
 
