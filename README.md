@@ -75,19 +75,21 @@
 
   <!-- Left Side: GitHub Stats -->
   <div style="flex: 1; min-width: 300px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rokibulhassanrakib&show_icons=true&theme=radical&locale=en" 
-         alt="GitHub Stats" style="border-radius:10px; width:100%; max-width:450px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=rokibulhassanrakib&show_icons=true&theme=radical&hide_rank=true&hide_title=true" 
+         alt="GitHub Stats" style="border-radius:10px; width:100%; max-width:350px;"/>
   </div>
 
-  <!-- Right Side: Streaks & Top Languages -->
-  <div style="flex: 1; min-width: 300px; text-align: center; display: flex; flex-direction: column; gap: 15px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokibulhassanrakib&theme=radical" 
-         alt="GitHub Streak" style="border-radius:10px; width:100%; max-width:450px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibulhassanrakib&show_icons=true&locale=en&layout=compact&theme=radical" 
-         alt="Top Languages" style="border-radius:10px; width:100%; max-width:450px;"/>
+  <!-- Right Side: Streak + Top Languages -->
+  <div style="flex: 1; min-width: 300px; text-align: center; display: flex; flex-direction: column; gap: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokibulhassanrakib&theme=radical&hide_border=true" 
+         alt="GitHub Streak" style="border-radius:10px; width:100%; max-width:350px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibulhassanrakib&show_icons=true&layout=compact&theme=radical" 
+         alt="Top Languages" style="border-radius:10px; width:100%; max-width:350px;"/>
   </div>
 
 </div>
+
+
 
 
 
