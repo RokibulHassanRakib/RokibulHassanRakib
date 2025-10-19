@@ -11,7 +11,7 @@
 </h1>
 <p style="font-size: 18px;"><strong>Front-End Developer | Crafting Clean UI & Modern Web Experiences</strong></p>
 
-
+---
 
 ### 👋 About Me
 - MERN Stack Developer | React.js • Node.js • Express.js • MongoDB • MySQL  
@@ -108,6 +108,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
