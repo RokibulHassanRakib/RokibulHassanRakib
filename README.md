@@ -56,9 +56,7 @@
       <p align="center">
         <a href="https://github.com/RokibulHassanRakib">
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokibulhassanrakib&theme=radical&hide_border=true" 
-               alt="GitHub Streak" style="border-radius:10px; width:100%;"/>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibulhassanrakib&show_icons=true&layout=compact&theme=radical&hide_border=true" 
-               alt="Top Languages"/>
+               alt="GitHub Streak" />
         </a>
       </p>
     </td>
@@ -100,3 +98,4 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
+
