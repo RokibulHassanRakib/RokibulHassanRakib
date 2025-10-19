@@ -70,15 +70,26 @@
 
 <!-- ================= GitHub Stats ================= -->
 <h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rokibulhassanrakib&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" style="border-radius:10px;"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokibulhassanrakib&theme=radical" alt="GitHub Streak" style="border-radius:10px;"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibulhassanrakib&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="border-radius:10px;"/>
-</p>
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 15px;">
+
+  <!-- Left Side: GitHub Stats -->
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rokibulhassanrakib&show_icons=true&theme=radical&locale=en" 
+         alt="GitHub Stats" style="border-radius:10px; width:100%; max-width:450px;"/>
+  </div>
+
+  <!-- Right Side: Streaks & Top Languages -->
+  <div style="flex: 1; min-width: 300px; text-align: center; display: flex; flex-direction: column; gap: 15px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokibulhassanrakib&theme=radical" 
+         alt="GitHub Streak" style="border-radius:10px; width:100%; max-width:450px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibulhassanrakib&show_icons=true&locale=en&layout=compact&theme=radical" 
+         alt="Top Languages" style="border-radius:10px; width:100%; max-width:450px;"/>
+  </div>
+
+</div>
+
+
 
 
 
