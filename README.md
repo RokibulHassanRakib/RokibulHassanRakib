@@ -66,26 +66,34 @@
 </p>
 
 
-<!-- ================= GitHub Stats ================= -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 15px;">
+<table width="100%" cellspacing="0" cellpadding="10">
+  <tr>
+    <!-- Left Block: GitHub Stats -->
+    <td width="50%" valign="top">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" 
+               alt="GitHub Stats" style="border-radius:10px; width:100%; max-width:400px;" />
+        </a>
+      </p>
+    </td>
 
-  <!-- Left Block: GitHub Stats -->
-  <div style="flex: 1 1 300px; max-width: 330px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rokibulhassanrakib&show_icons=true&theme=radical&hide_rank=true&hide_title=true&hide_border=true" 
-         alt="GitHub Stats" style="border-radius:10px; width:100%;"/>
-  </div>
+    <!-- Right Block: Streak Stats -->
+    <td width="50%" valign="top">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" 
+               alt="Streak Stats" style="border-radius:10px; width:100%; max-width:400px;" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-  <!-- Right Block: Streak + Top Languages -->
-  <div style="flex: 1 1 300px; max-width: 330px; text-align: center; display: flex; flex-direction: column; gap: 15px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokibulhassanrakib&theme=radical&hide_border=true" 
-         alt="GitHub Streak" style="border-radius:10px; width:100%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibulhassanrakib&show_icons=true&layout=compact&theme=radical&hide_border=true" 
-         alt="Top Languages" style="border-radius:10px; width:100%;"/>
-  </div>
-
-</div>
 
 
 
