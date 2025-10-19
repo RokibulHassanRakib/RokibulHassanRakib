@@ -52,7 +52,7 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <table width="100%">
   <tr>
     <td width="50%">
@@ -108,5 +108,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
+
 
 
