@@ -9,7 +9,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
   ɪ'ᴍ ʀᴏᴋɪʙᴜʟ ʜᴀssᴀɴ ʀᴀᴋɪʙ
 </h1>
-<p style="font-size: 18px;"><strong>Front-End Developer | Crafting Clean UI & Modern Web Experiences</strong></p>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ---
 
@@ -108,6 +108,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
