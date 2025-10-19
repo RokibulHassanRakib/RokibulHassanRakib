@@ -1,7 +1,9 @@
-<!-- ================= Banner Section ================= -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" 
-       alt="Coding Banner" width="90%" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
+![Kiran1689 Banner Image](./banner.png)
+
+<!--Night Owl image-->
+<div>
+ <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+</div>
   <h1>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
     ɪ'ᴍ ʀᴏᴋɪʙᴜʟ ʜᴀssᴀɴ ʀᴀᴋɪʙ
@@ -68,3 +70,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibulhassanrakib&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="border-radius:10px;"/>
 </p>
+
