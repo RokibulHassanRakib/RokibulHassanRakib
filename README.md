@@ -67,27 +67,29 @@
 
 
 ---
-
 <!-- ================= GitHub Stats ================= -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 15px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 15px;">
 
-  <!-- Left Side: GitHub Stats -->
-  <div style="flex: 1; min-width: 300px; text-align: center;">
+  <!-- Left Block: GitHub Stats -->
+  <div style="flex: 1 1 350px; text-align: center; max-width: 400px;">
     <img src="https://github-readme-stats.vercel.app/api?username=rokibulhassanrakib&show_icons=true&theme=radical&hide_rank=true&hide_title=true" 
-         alt="GitHub Stats" style="border-radius:10px; width:100%; max-width:350px;"/>
+         alt="GitHub Stats" style="border-radius:10px; width:100%;"/>
   </div>
 
-  <!-- Right Side: Streak + Top Languages -->
-  <div style="flex: 1; min-width: 300px; text-align: center; display: flex; flex-direction: column; gap: 10px;">
+  <!-- Right Block: Streak + Top Languages -->
+  <div style="flex: 1 1 350px; text-align: center; max-width: 400px; display: flex; flex-direction: column; gap: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokibulhassanrakib&theme=radical&hide_border=true" 
-         alt="GitHub Streak" style="border-radius:10px; width:100%; max-width:350px;"/>
+         alt="GitHub Streak" style="border-radius:10px; width:100%;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibulhassanrakib&show_icons=true&layout=compact&theme=radical" 
-         alt="Top Languages" style="border-radius:10px; width:100%; max-width:350px;"/>
+         alt="Top Languages" style="border-radius:10px; width:100%;"/>
   </div>
 
 </div>
+
+
+
 
 
 
