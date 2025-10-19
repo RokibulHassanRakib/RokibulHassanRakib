@@ -66,26 +66,28 @@
 </p>
 
 
----
+<!-- ================= GitHub Stats ================= -->
 <h2 align="center">📊 GitHub Stats</h2>
-<br>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 15px;">
 
-    <div style="flex: 1 1 300px; max-width: 400px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=rokibulhassanrakib&show_icons=true&theme=radical&hide_rank=true&hide_title=true&hide_border=true"
-             alt="GitHub Stats" style="border-radius:10px; width:100%; height:auto;"/>
-    </div>
+  <!-- Left Block: GitHub Stats -->
+  <div style="flex: 1 1 300px; max-width: 330px; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rokibulhassanrakib&show_icons=true&theme=radical&hide_rank=true&hide_title=true&hide_border=true" 
+         alt="GitHub Stats" style="border-radius:10px; width:100%;"/>
+  </div>
 
-    <div style="flex: 1 1 300px; max-width: 400px; display: flex; flex-direction: column; gap: 20px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokibulhassanrakib&theme=radical&hide_border=true"
-             alt="GitHub Streak" style="border-radius:10px; width:100%; height:auto;"/>
-
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibulhassanrakib&show_icons=true&layout=compact&theme=radical&hide_border=true"
-             alt="Top Languages" style="border-radius:10px; width:100%; height:auto;"/>
-    </div>
+  <!-- Right Block: Streak + Top Languages -->
+  <div style="flex: 1 1 300px; max-width: 330px; text-align: center; display: flex; flex-direction: column; gap: 15px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokibulhassanrakib&theme=radical&hide_border=true" 
+         alt="GitHub Streak" style="border-radius:10px; width:100%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibulhassanrakib&show_icons=true&layout=compact&theme=radical&hide_border=true" 
+         alt="Top Languages" style="border-radius:10px; width:100%;"/>
+  </div>
 
 </div>
+
+
 
 
 
