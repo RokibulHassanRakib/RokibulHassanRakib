@@ -27,22 +27,28 @@
 
 ---
 
-<h2 align="center">🛠 Tech Stack & Tools</h2> 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img alt="Skills Animation" src="./Skills_Animation_White.gif">
-  </picture>
-</p>
+<h2 align="center">🛠 Tech Stack & Tools</h2>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3>Current Learning</h3>
+      <ul>
+        <li>🟢 JavaScript – Enhancing core JS skills & ES6+ features</li>
+        <li>⚛️ React.js – Building interactive UI components</li>
+        <li>🌐 Node.js & Express.js – Developing REST APIs & backend projects</li>
+        <li>💻 Projects – Working on full-stack MERN applications</li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+        <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+        <img alt="Skills Animation" src="./Skills_Animation_White.gif">
+      </picture>
+    </td>
+  </tr>
+</table>
 
-<h3>Current Learning</h3>
-<ul>
-  <li>🟢 JavaScript – Enhancing core JS skills & ES6+ features</li>
-  <li>⚛️ React.js – Building interactive UI components</li>
-  <li>🌐 Node.js & Express.js – Developing REST APIs & backend projects</li>
-  <li>💻 Projects – Working on full-stack MERN applications</li>
-</ul>
 
 ---
 
@@ -102,3 +108,4 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
+
