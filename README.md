@@ -27,6 +27,28 @@
 
 ---
 
+<!-- Trophies Section -->
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+
+<!-- GitHub Profile Trophy -->
+<p align="center">
+  <a href="https://github.com/RokibulHassanRakib">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RokibulHassanRakib&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RokibulHassanRakib&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=RokibulHassanRakib&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+
+<!-- Vaunt.dev Achievements (Optional) -->
+<p align="center">
+  <a href="https://github.com/RokibulHassanRakib">
+    <img src="https://api.vaunt.dev/v1/github/entities/RokibulHassanRakib/achievements?format=svg&limit=6" width="400" alt="GitHub Achievements"/>
+  </a>
+</p>
+
+
 <h2 align="center">🛠 Tech Stack & Tools</h2>
 <table width="100%">
   <tr>
@@ -108,6 +130,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
