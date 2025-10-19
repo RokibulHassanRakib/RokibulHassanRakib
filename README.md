@@ -34,7 +34,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img alt="Skills Animation" src="./Skills_Animation_White.gif" width="80%">
+    <img alt="Skills Animation" src="./Skills_Animation_White.gif" width="50%">
   </picture>
 </p>
 
@@ -97,4 +97,5 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
+
 
