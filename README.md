@@ -71,6 +71,13 @@
 </div>
 
 
+<h2 align="center">🌟 Thought of the Day 🌟</h2>
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=To%20succeed%20takes%20more%20than%20the%20desire%20to%20win.%20It%20also%20takes%20the%20acceptance%20that%20we%20could%20fail.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+
+
+
 <h2 align="center">🤝 Connect With Me 🤝</h2>
 <p align="center" style="font-size:16px; margin-bottom:15px;">
   ✉️ Email: <a href="mailto:hi.rakibcode@gmail.com" style="text-decoration:none; color:#770677;"><strong>hi.rakibcode@gmail.com</strong></a>
@@ -90,6 +97,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
